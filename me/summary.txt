@@ -1,0 +1,6 @@
+AI/ML Team Lead with 11 years of experience building scalable forecasting, pricing optimization, 
+and NLP/LLM solutions. Ranked among the Top 10 Women in Data Science 2021, with speaking engagements at Stanford WiDS 
+and AWS Summit India. I specialize in leading teams to create production-ready ML systems - improving forecasting reliability
+ for 2,000+ SKUs and enhancing pricing model performance by 12% to support global business decisions. 
+ Certified in Big Data Analytics and a 2nd place AWS DeepRacer finalist,
+  I focus on building high-performing, business-driven AI products.
